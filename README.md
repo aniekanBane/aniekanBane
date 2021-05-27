@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning c# and AWS.
 
 - 📫 How to reach me [facebook](https://www.facebook.com/Aniekanjr)
+- 🏗 This page is currently under construction.
 
 <!---
 aniekanBane/aniekanBane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
