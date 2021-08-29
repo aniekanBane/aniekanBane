@@ -1,8 +1,8 @@
-- 👋 Hi, My name is Aniekan Umanah. I am an undergraduate student (about to graduate soon)
+- 👋 Hi, My name is Aniekan Umanah. I am an recent Electronic Engineering grauduate. 
 - 👀 I'm interested in machine learning, computer vision, embedded systems.
 - 🌱 I’m currently learning c# and AWS.
 
-- 📫 How to reach me [facebook](https://www.facebook.com/Aniekanjr)
+- 📫 How to reach me [facebook](https://www.facebook.com/Aniekanjr) [LinkedIn](https://www.linkedin.com/in/aniekan-umanah-0421ab197/)
 - 🏗 This page is currently under construction.
 
 <!---
