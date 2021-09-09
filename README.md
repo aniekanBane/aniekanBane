@@ -4,8 +4,7 @@
 
 - 📫 How to reach me [Facebook](https://www.facebook.com/Aniekanjr) [LinkedIn](https://www.linkedin.com/in/aniekan-umanah-0421ab197/)
 - 🏗 This page is currently under construction.
-
-Where I practice ![My Kata](https://www.codewars.com/users/aniekanBane/badges/micro)
+![My Kata](https://www.codewars.com/users/aniekanBane/badges/micro)
 
 <!---
 aniekanBane/aniekanBane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
