@@ -1,4 +1,12 @@
-- 👋 Hi, My name is Aniekan Umanah. I am Electronics and Computer Systems Engineering
+![banner](https://github.com/aniekanBane/aniekanBane/blob/main/git_banener.png)
+
+<p align="center">
+  <img src="https://badges.pufler.dev/visits/aniekanBane/aniekanBane"/> 
+  <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+  <img src="https://badges.pufler.dev/repos/aniekanBane"/>
+  <img src="https://badges.pufler.dev/commits/monthly/aniekanBane" />
+</p>
+
 - 👀 I'm interested in Machine Learning, Computer Vision, and Embedded systems.
 - 🌱 I’m currently learning a lot.
 
