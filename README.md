@@ -1,4 +1,4 @@
-![banner](https://github.com/aniekanBane/aniekanBane/blob/main/git_banener.png)
+![banner](https://github.com/aniekanBane/aniekanBane/blob/main/git_banner.gif)
 
 <p align="center">
   <img src="https://badges.pufler.dev/visits/aniekanBane/aniekanBane"/> 
