@@ -36,7 +36,7 @@ Codewars: ->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniekanBane&show_icons=true&theme=merko">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniekanBane&show_icons=true&locale=en&layout=compact&theme=merko&line_height=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniekanBane&show_icons=true&locale=en&layout=compact&theme=merko" />
 </p>
 
 <p align = "center">
