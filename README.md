@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning a lot.
 
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aniekan-umanah-0421ab197/)
-- 🏗 This page is still currently under construction.
+- 🏗 This page is always under construction.
 
 <!---
 Codewars: ->
